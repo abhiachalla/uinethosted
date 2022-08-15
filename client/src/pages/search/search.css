@@ -1,0 +1,84 @@
+
+body {
+    color:red
+}
+
+abhi {
+    color:red
+}
+.inputSearch {
+    width: 80%;
+    height: 100%;
+    font-size: 25px;
+    background-color: rgba(166, 121, 153, 0.422);
+    color: rgb(218, 130, 23);
+    border: 1px solid rgb(243, 168, 17);
+}
+.button {
+    width: 20%;
+    height: 100%;
+    font-size: 25px;
+    background-color: rgba(166, 121, 153, 0.422);
+    color: rgb(218, 130, 23);
+    border: 1px solid rgb(243, 168, 17);
+}
+
+
+.searchbar {
+    position: absolute;
+    width: 70%;
+    height: 5%;
+    left: 10%;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.list-group {
+    position:absolute;
+    width: 500px;
+    height: 500px;
+    color:red;
+    background-color: blue;
+}
+
+.list-group-item {
+    font-size: 25px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    color:blue;
+    background-color: red;
+}
+
+.movie {
+    color:red;
+
+
+}
+
+.movies {
+    color: rgb(218, 130, 23);
+    position: absolute;
+    width: 70%;
+    height: 50%;
+    left: 10%;
+
+    top: 100px;
+}
+
+.good {
+    padding-top: 2rem;
+    padding-left: 2rem;
+    font-size: 30px;
+    position: absolute
+}
+
+img{
+    padding-top: 1rem;
+}
+
+.no-text-dec {
+    text-decoration: none;
+    color: rgb(218, 130, 23);
+}

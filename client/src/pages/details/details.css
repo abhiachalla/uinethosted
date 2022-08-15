@@ -1,0 +1,10 @@
+body {
+    color: rgb(218, 130, 23);
+}
+
+.good {
+    padding-top: 2rem;
+    padding-left: 2rem;
+    font-size: 30px;
+    position: absolute
+}

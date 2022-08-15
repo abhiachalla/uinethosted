@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(188deg, rgba(8,44,110,1) 12%, rgba(0,0,0,0.861782212885154) 37%, rgba(121,9,32,0.9122023809523809) 71%);
+
+}
+
+.col-flex {
+    display: flex;
+    flex-direction: row;
+    gap:1rem;
+}
+
+.red {
+    color: red
+}
+
+.green {
+    color:green
+}
+
+.no-dec {
+    color:white;
+    text-decoration: none;
+}
+
+
+.netflix {
+    position: absolute;
+    right:0;
+    top:0;
+    width: 48%;
+    height: 70%;
+}
+
+.br {
+    border-radius: 50%;
+}
+
+.text {
+    color:white
+}
+.text2 {
+    color:rgb(198, 212, 73)
+}

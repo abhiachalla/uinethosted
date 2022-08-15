@@ -1,0 +1,82 @@
+
+
+html {
+background-color: rgb(16, 8, 70);
+}
+
+
+body {
+    background: linear-gradient(188deg, rgba(8,44,110,1) 12%, rgba(0,0,0,0.861782212885154) 37%, rgba(121,9,32,0.9122023809523809) 71%);
+}
+
+.round {
+    border-radius: 20px 200px / 120px;
+    padding-left: 4rem;
+}
+
+.card {
+
+    width: 40%;
+    height: 90%;
+    position: absolute;
+    
+    
+
+     
+    border-radius: 10%;
+background-color: rgb(153, 76, 76);
+  }
+
+  
+
+
+  .left {
+      width:60%;
+      height:60%;
+  }
+
+
+
+h1 {
+    color:white
+}
+
+a {
+    text-decoration: none;
+}
+
+.special {
+    padding-left: 2rem;
+    font-size: 120%;
+    font-family: 'Courier New', monospace;
+}
+
+.netflix {
+    position: absolute;
+    right:0;
+    top:0;
+    width: 50%;
+    height: 50%;
+
+    border-radius: 20%;
+    opacity: 0.5;
+
+    
+}
+
+.left2 {
+    padding-left: 1rem;
+}
+
+.input2 {
+    width: 50%;
+margin-left: 5rem;
+color:white;
+background-color: rgb(233, 201, 154);
+}
+.button2 {
+    width: 50%;
+margin-left: 5rem;
+color:white;
+background-color: rgb(232, 134, 134);
+}
